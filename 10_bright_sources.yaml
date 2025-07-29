@@ -1,0 +1,100 @@
+MYSOURCE1:
+- ra: 1.5
+  dec: 1.5
+  comp_type: point
+  flux_type:
+    power_law:
+      si: 0
+      fd:
+        freq: 200000000.0
+        i: 10
+MYSOURCE2:
+- ra: 10
+  dec: -10
+  comp_type: point
+  flux_type:
+    power_law:
+      si: 0
+      fd:
+        freq: 200000000.0
+        i: 10
+MYSOURCE3:
+- ra: -4
+  dec: -8
+  comp_type: point
+  flux_type:
+    power_law:
+      si: 0
+      fd:
+        freq: 200000000.0
+        i: 10
+MYSOURCE4:
+- ra: -80
+  dec: -0.321
+  comp_type: point
+  flux_type:
+    power_law:
+      si: 0
+      fd:
+        freq: 200000000.0
+        i: 10
+MYSOURCE5:
+- ra: -1.23
+  dec: 89.01
+  comp_type: point
+  flux_type:
+    power_law:
+      si: 0
+      fd:
+        freq: 200000000.0
+        i: 10
+MYSOURCE6:
+- ra: -33.33
+  dec: 44.44
+  comp_type: point
+  flux_type:
+    power_law:
+      si: 0
+      fd:
+        freq: 200000000.0
+        i: 10
+MYSOURCE7:
+- ra: 45.0
+  dec: 23.12
+  comp_type: point
+  flux_type:
+    power_law:
+      si: 0
+      fd:
+        freq: 200000000.0
+        i: 10
+MYSOURCE8:
+- ra: 30.0
+  dec: -60.12
+  comp_type: point
+  flux_type:
+    power_law:
+      si: 0
+      fd:
+        freq: 200000000.0
+        i: 10
+MYSOURCE9:
+- ra: -5.0
+  dec: -0.4
+  comp_type: point
+  flux_type:
+    power_law:
+      si: 0
+      fd:
+        freq: 200000000.0
+        i: 10
+MYSOURCE10:
+- ra: -2.3
+  dec: -115.65
+  comp_type: point
+  flux_type:
+    power_law:
+      si: 0
+      fd:
+        freq: 200000000.0
+        i: 10
