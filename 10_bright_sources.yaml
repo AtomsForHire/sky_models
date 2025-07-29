@@ -19,7 +19,7 @@ MYSOURCE2:
         freq: 200000000.0
         i: 10
 MYSOURCE3:
-- ra: -4
+- ra: 356
   dec: -8
   comp_type: point
   flux_type:
@@ -29,7 +29,7 @@ MYSOURCE3:
         freq: 200000000.0
         i: 10
 MYSOURCE4:
-- ra: -80
+- ra: 280
   dec: -0.321
   comp_type: point
   flux_type:
@@ -39,7 +39,7 @@ MYSOURCE4:
         freq: 200000000.0
         i: 10
 MYSOURCE5:
-- ra: -1.23
+- ra: 358.77
   dec: 89.01
   comp_type: point
   flux_type:
@@ -49,7 +49,7 @@ MYSOURCE5:
         freq: 200000000.0
         i: 10
 MYSOURCE6:
-- ra: -33.33
+- ra: 326.67
   dec: 44.44
   comp_type: point
   flux_type:
@@ -79,7 +79,7 @@ MYSOURCE8:
         freq: 200000000.0
         i: 10
 MYSOURCE9:
-- ra: -5.0
+- ra: 355
   dec: -0.4
   comp_type: point
   flux_type:
@@ -89,7 +89,7 @@ MYSOURCE9:
         freq: 200000000.0
         i: 10
 MYSOURCE10:
-- ra: -2.3
+- ra: 357.7
   dec: -115.65
   comp_type: point
   flux_type:
