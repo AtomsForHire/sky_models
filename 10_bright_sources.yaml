@@ -89,8 +89,8 @@ MYSOURCE9:
         freq: 200000000.0
         i: 10
 MYSOURCE10:
-- ra: 357.7
-  dec: -115.65
+- ra: 0.0
+  dec: 60.0
   comp_type: point
   flux_type:
     power_law:
